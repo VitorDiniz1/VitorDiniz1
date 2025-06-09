@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Olá!, Me chamo Vitor Diniz,e sou programador Full Stack 👋🏼:
-🛜acesse meu portfólio [webpage](https://portfolio-principal-brown.vercel.app/)<br>👨🏼‍🎓Faço faculadade de Sistemas de Informações com previsão de formaura em dezembro/2026<br>👨🏼‍💻Atuo na área de programação há 1 ano, com foco em desenvolvimento de sistemas utilizando Delphi e já participei de projetos como freelancer e colaborei com ONGs.
+👨🏼‍🎓Faço faculadade de Sistemas de Informações com previsão de formaura em dezembro/2026<br>👨🏼‍💻Atuo na área de programação há 1 ano, com foco em desenvolvimento de sistemas utilizando Delphi e já participei de projetos como freelancer e colaborei com ONGs.<br>🛜 acesse meu portfólio [webpage](https://portfolio-principal-brown.vercel.app/)
 
 
 # 💻 Tech Stack:
